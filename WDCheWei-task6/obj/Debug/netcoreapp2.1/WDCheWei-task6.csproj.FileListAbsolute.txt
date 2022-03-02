@@ -1,0 +1,11 @@
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\obj\Debug\netcoreapp2.1\WDCheWei-task6.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\obj\Debug\netcoreapp2.1\WDCheWei-task6.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\obj\Debug\netcoreapp2.1\WDCheWei-task6.AssemblyInfoInputs.cache
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\obj\Debug\netcoreapp2.1\WDCheWei-task6.AssemblyInfo.cs
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\bin\Debug\netcoreapp2.1\WDCheWei-task6.deps.json
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\bin\Debug\netcoreapp2.1\WDCheWei-task6.runtimeconfig.json
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\bin\Debug\netcoreapp2.1\WDCheWei-task6.runtimeconfig.dev.json
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\bin\Debug\netcoreapp2.1\WDCheWei-task6.dll
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\bin\Debug\netcoreapp2.1\WDCheWei-task6.pdb
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\obj\Debug\netcoreapp2.1\WDCheWei-task6.dll
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task6\WDCheWei-task6\obj\Debug\netcoreapp2.1\WDCheWei-task6.pdb
